@@ -1,5 +1,5 @@
 # CuteDogTodoProject  
-##Flux Pattern with V.JS. No design version .   
+## Flux Pattern with V.JS. No design version .   
 
 ### 스토어, 컴포넌트, 모듈화 with Only JS + HTML + CSS  
 
